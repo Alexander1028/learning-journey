@@ -54,3 +54,8 @@ I believe consistent practice, curiosity, and patience are essential to becoming
 
 **One step at a time. One project at a time.**
 
+## 🧠 What I'm Learning Today
+
+- Setting up my development environment.
+- Learning how Git and GitHub work.
+- Making my first local changes with VS Code.
