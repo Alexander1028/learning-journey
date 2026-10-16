@@ -59,3 +59,7 @@ I believe consistent practice, curiosity, and patience are essential to becoming
 - Setting up my development environment.
 - Learning how Git and GitHub work.
 - Making my first local changes with VS Code.
+
+
+15/10/2026 - 7:41PM
+ - Practicing Git commands and understanding version control.
