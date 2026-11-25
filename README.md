@@ -63,3 +63,6 @@ I believe consistent practice, curiosity, and patience are essential to becoming
 
 15/10/2026 - 7:41PM
  - Practicing Git commands and understanding version control.
+
+25/11/2026 - 4:19PM
+- Trying to understand.
