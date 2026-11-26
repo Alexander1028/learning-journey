@@ -1,0 +1,24 @@
+{
+  "ganadas": [
+    {
+      "jugador": "Jugador",
+      "dificultad": "Fácil",
+      "numero": 48,
+      "intentos": 4,
+      "max_intentos": 10,
+      "hora": "10:59"
+    },
+    {
+      "jugador": "Tom",
+      "numero": 24,
+      "intentos": 7,
+      "hora": "10:54"
+    },
+    {
+      "jugador": "Tom",
+      "numero": 77,
+      "intentos": 5,
+      "hora": "10:54"
+    }
+  ]
+}
