@@ -8,6 +8,13 @@ ventana.configure(bg="#202020")
 ventana.resizable(False, False)
 ventana.mainloop()
 
+titulo = tk.Label(
+    ventana, 
+    text="¡Bienvenido al juego de adivinanza!", 
+    font=("Arial", 16), 
+    bg="#FFFFFF", 
+    fg="#FFFFFF")
+
 import random 
 
 numero = random.randint(1, 100)
