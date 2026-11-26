@@ -66,3 +66,6 @@ I believe consistent practice, curiosity, and patience are essential to becoming
 
 25/11/2026 - 4:19PM
 - Trying to understand.
+
+26/11/2026 - 11:07AM
+- Creating a game: Guess the number, Creating versions from 1.0 to 5.0.
