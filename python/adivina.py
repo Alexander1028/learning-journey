@@ -1,3 +1,13 @@
+import tkinter as tk
+
+ventana = tk.Tk()
+
+ventana.title("Adivina el Número")
+ventana.geometry("600x400")
+ventana.configure(bg="#202020")
+ventana.resizable(False, False)
+ventana.mainloop()
+
 import random 
 
 numero = random.randint(1, 100)
